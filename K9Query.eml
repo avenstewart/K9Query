@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/K9Query"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="jackson-annotations-0.63.0.54.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/jackson-annotations-0.63.0.54.jar!/"/>
+	</lib>
+	<lib name="jackson-core-0.63.0.61.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/jackson-core-0.63.0.61.jar!/"/>
+	</lib>
+	<lib name="jackson-databind-0.63.0.61.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/jackson-databind-0.63.0.61.jar!/"/>
+	</lib>
+</component>
