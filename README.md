@@ -37,10 +37,12 @@ API.
 -------------------------------------------------------
 		ADDITIONAL INFORMATION
 -------------------------------------------------------
+
 The Jackson JSON processing library is used to parse 
 all API responses. jackson-core, jackson-annotations, 
 and jackson-databind are all included in the lib 
 directory. 
+
 -------------------------------------------------------
 
                 Thank you for reading!
