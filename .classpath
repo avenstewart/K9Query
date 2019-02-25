@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-0.63.0.54.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-0.63.0.61.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-0.63.0.61.jar"/>
+	<classpathentry kind="output" path="out/production/K9Query"/>
+</classpath>
